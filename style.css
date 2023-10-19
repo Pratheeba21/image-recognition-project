@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#imagePreview {
+    margin-top: 20px;
+    max-width: 100%;
+}
+
+#caption {
+    margin-top: 20px;
+    font-style: italic;
+}
